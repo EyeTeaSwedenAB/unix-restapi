@@ -1,0 +1,13 @@
+{
+    "repositories": [
+        {
+            "url": "https://github.com/EyeTeaSwedenAB/Config",
+            "type": "git"
+        }
+    ],
+    "require": {
+        "pear/config": "dev-trunk",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.7"
+    }
+}
