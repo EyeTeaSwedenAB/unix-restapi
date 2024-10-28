@@ -8,6 +8,6 @@
     "require": {
         "pear/config": "dev-trunk",
         "slim/slim": "4.*",
-        "slim/psr7": "^1.7"
+        "slim/psr7": "^1.6"
     }
 }
