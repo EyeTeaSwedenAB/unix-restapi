@@ -5,7 +5,7 @@ use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Factory\AppFactory;
 
 require __DIR__ . '/../vendor/autoload.php';
-require_once __DIR__ . '/../ApacheConfig.php';
+require_once __DIR__ . '/../includes/ApacheConfig.php';
 
 $env = parse_ini_file(__DIR__ . '/../.env');
 
